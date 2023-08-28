@@ -9,6 +9,7 @@ This API provides a RESTful interface for managing coupons and consumption histo
 * Read the consumption history fo all coupons or a spacific coupon by code
 
 > Live Preview: [https://product-catalog-api-service.onrender.com/swagger-ui/index.html#/](https://coupon-service-api.onrender.com/swagger-ui/index.html#/)
+> Use the API: [https://coupon-service-api.onrender.com](https://coupon-service-api.onrender.com)
 
 ## Getting Started
 
